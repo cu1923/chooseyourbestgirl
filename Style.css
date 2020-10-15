@@ -24,7 +24,7 @@ a {
 }
 
 .image {
-  image-align: left;
+  float: left;
   margin-right: 20px;
 }
 
