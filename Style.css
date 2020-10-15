@@ -6,11 +6,33 @@ body {
 strong {
   font-size: 16px;
 }
+
+button {
+  margin:15px;
+}
+
+a {
+  margin: 15px;
+}
+
 .girl {
   padding-left: 20px;
   border-radius: 10px;
   border-color: lightpink;
   border-style: groove;
+  height: 328px;
+}
+
+.image {
+  float: left;
+  margin-right: 20px;
+}
+
+.quote {
+  font-size: 20px;
+  color: inherit;
+  padding-right: 25px;
+  text-align: center;
 }
 
 .comments {
@@ -20,18 +42,17 @@ strong {
   font-size: 16px;
 }
 
-.comments.text{
+.text{
   font-size:12px;
+  text-indent: 20px;
 }
 
 .comments.reply{
-  font-size:16px;
-  padding-left: 40px;
+  text-indent: 40px;
 }
 
-.comments.reply.text{
-  font-size:12px;
-  padding-left: 60px;
+.comments.reply.text {
+  text-indent:60px;
 }
 
 #Chizuru {
