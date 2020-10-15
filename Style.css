@@ -1,0 +1,47 @@
+body {
+  margin: 50px;
+  margin-right: 150px;
+}
+
+strong {
+  font-size: 16px;
+}
+.girl {
+  padding-left: 20px;
+  border-radius: 10px;
+  border-color: lightpink;
+  border-style: groove;
+}
+
+.comments {
+  font-family: sans-serif;
+  border-width: 5px;
+  border-color: darkgray;
+  font-size: 16px;
+}
+
+.comments.text{
+  font-size:12px;
+}
+
+.comments.reply{
+  font-size:16px;
+  padding-left: 40px;
+}
+
+.comments.reply.text{
+  font-size:12px;
+  padding-left: 60px;
+}
+
+#Chizuru {
+  color: brown;
+}
+
+#Mai {
+  color:purple;
+}
+
+#Yukino {
+  color: darkblue;
+}
